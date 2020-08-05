@@ -1,6 +1,6 @@
-### Hi there, I'm Ryan - aka nyancodeid 👋
+## Hi there, I'm Ryan - aka nyancodeid 👋
 
-## I'm a Single Fighter Developer!
+### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
 - 🌱 I’m currently learning about DevOps specially Docker and K8s
 - 👯 I’m looking to collaborate with other developer
@@ -11,7 +11,7 @@
 [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=nyancodeid)](https://github.com/nyancodeid/nyancodeid)
 
 
-## ⚡ What i am doing now
+### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -23,7 +23,7 @@ HTML         35 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 📫 Contact Me
+### 📫 Contact Me
 - Facebook - [Ryan Aunur Rassyid](https://facebook.com/ryan.hac)
 - Twitter - [@ryanaunur](https://twitter.com/ryanaunur)
-- Blog - [NyanDev Blog](https://blog.nyandev.id)
+- Blog - [https://blog.nyandev.id](https://blog.nyandev.id)
