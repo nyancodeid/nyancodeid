@@ -1,4 +1,4 @@
-## Hi there, I'm Ryan - aka nyancodeid 👋
+## Hi there, I'm Ryan - aka NyanDev 👋
 
 [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=nyancodeid)](https://github.com/nyancodeid/nyancodeid)
 
