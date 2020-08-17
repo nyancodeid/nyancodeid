@@ -14,27 +14,27 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Jakarta
+⌚︎ Time zone: Asia/Jakarta
 
-💬 Languages: 
+💬 Programming Languages: 
 JavaScript               9 hrs 36 mins       ████████████████░░░░░░░░░   65.21% 
 reStructuredText         1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
 YAML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
 Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
 JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  14 hrs 44 mins      █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Linux                    14 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               34 repos            ████████████░░░░░░░░░░░░░   50.75% 
