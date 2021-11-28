@@ -41,15 +41,13 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     44 mins             ██████████████████████░░░   90.21% 
-PHP                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
-Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -66,7 +64,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
