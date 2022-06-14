@@ -31,7 +31,7 @@
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 📊 WakaTime Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanaunur&theme=github_dark&layout=compact">
 </p>
 
