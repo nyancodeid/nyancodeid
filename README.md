@@ -35,48 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanaunur&theme=github_dark&layout=compact">
 </p>
 
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      1 hr 16 mins        ███████████░░░░░░░░░░░░░░   45.46% 
-TypeScript               36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-Blade Template           21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Apache Config            16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
-
-🔥 Editors: 
-VS Code                  1 hr 51 mins        ████████████████░░░░░░░░░   66.45% 
-Sublime Text             56 mins             ████████░░░░░░░░░░░░░░░░░   33.55%
-
-💻 Operating System: 
-Linux                    2 hrs 47 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               36 repos            ██████████░░░░░░░░░░░░░░░   43.37% 
-HTML                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
-PHP                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.02%
-
-```
-
-
-
- Last Updated on 02/01/2022
-<!--END_SECTION:waka-->
-
 ### 📫 Contact Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ryan.hac)
