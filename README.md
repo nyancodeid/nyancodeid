@@ -4,9 +4,9 @@
 
 ### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about Vue 3, Vite, and Nuxt 3 (waiting for).
+- 🌱 I’m currently learning about Laravel and PHP.
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: Create a public released side project!
+- 🥅 2022 Goals: Learning about how to be a good software developer, write more readable and maintainable code!
 - ⚡ Fun fact: I love cooking, looking for a bugs and create unfinished side project 
 
 ### Tech i used
