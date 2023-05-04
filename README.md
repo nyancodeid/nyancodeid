@@ -30,11 +30,6 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 📊 WakaTime Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanaunur&theme=github_dark&layout=compact">
-</p>
-
 ### 📫 Contact Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ryan.hac)
